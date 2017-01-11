@@ -5,7 +5,7 @@ Status](https://travis-ci.org/sophia-rutgers/example.svg?branch=master)](https:/
 
 Example python project with testing.
 
-## usage
+## usage_
 
 To use the package, first run
 
